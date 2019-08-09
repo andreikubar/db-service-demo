@@ -1,0 +1,1 @@
+create table table1 (id IDENTITY , field_1 varchar2(100), field_2 varchar2(100));
